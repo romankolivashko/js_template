@@ -208,7 +208,3 @@ _If there are any question or concerns please contact me at my [email](mailto:rk
 ### License
 
 *This software is licensed under the MIT license*
-
-Copyright (c) 2020 **_Roman Kolivashko_**
-# _[Assignment Name](https://github.com/rkolivashko/#)_
-
