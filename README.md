@@ -12,19 +12,19 @@
 
 ---
 ## Table of Contents
-1. [Description](#description)
-2. [Setup/Installation Requirements](#setup/installation-requirements)
++ [Description](#description)
++ [Setup/Installation Requirements](#setup/installation-requirements)
     - [Requirements to Run](#requirements-to-run)
     - [Instructions](#instructions)
     - [Other Technologies Used](#other-technologies-used)
-3. [Notable Features](#notable-features)
-4. [Specifications](#specifications)
++ [Notable Features](#notable-features)
++ [Specifications](#specifications)
     - [User Stories](#user-stories)
-5. [Screenshots](#screenshots)
-6. [Test Case Example](#test-case-example)
-7. [Known Bugs](#known-bugs)
-8. [Support and Contact Details](#support-and-contact-details)
-9. [License](#license)
++ [Screenshots](#screenshots)
++ [Test Case Example](#test-case-example)
++ [Known Bugs](#known-bugs)
++ [Support and Contact Details](#support-and-contact-details)
++ [License](#license)
 ---
 ## Description
 
